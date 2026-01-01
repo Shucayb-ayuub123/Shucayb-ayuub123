@@ -1,4 +1,4 @@
-#                                                                                  Hi there 👋, I'm Shu'aib Ayoub
+#Hi there 👋, I'm Shu'aib Mahamoud Ayoub
 
 🎓 **Computer Science ** | 💻 **Full-Stack Developer (Junior)** | 🌍 **Somalia**
 
