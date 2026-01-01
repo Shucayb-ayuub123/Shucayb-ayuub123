@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shu'aib Mahamoud Ayoub
 
-Computer Science  | 💻 **Full-Stack Developer (Junior) | 🌍 Somalia
+Computer Science  | 💻 Full-Stack Developer  | 🌍 Somalia
 
 I'm a passionate computer science student who loves building real-world projects and learning modern web technologies. I focus on **clean code**, **problem-solving**, and **continuous improvement**.
 
